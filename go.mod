@@ -1,4 +1,4 @@
-module ldrstl
+module github.com/Serizao-bzhunt/go-internalmonologue
 
 go 1.23.5
 
